@@ -1,0 +1,15 @@
+2024/05/19-20:02:25.918 4d10 Reusing MANIFEST C:/Users/benga/OneDrive/Documents/Unreal Projects/Unreal Projects/IMS213_Final_Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/19-20:02:25.919 4d10 Recovering log #4
+2024/05/19-20:02:25.919 4d10 Reusing old log C:/Users/benga/OneDrive/Documents/Unreal Projects/Unreal Projects/IMS213_Final_Project/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/19-20:44:49.496 5a68 Level-0 table #8: started
+2024/05/19-20:44:49.512 5a68 Level-0 table #8: 190 bytes OK
+2024/05/19-20:44:49.517 5a68 Delete type=0 #4
+2024/05/19-20:44:49.517 5a68 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/19-20:44:49.518 5a68 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 59 : 1
+2024/05/19-20:44:49.518 5a68 Compacting 1@1 + 1@2 files
+2024/05/19-20:44:49.535 5a68 Generated table #9@1: 18 keys, 534 bytes
+2024/05/19-20:44:49.535 5a68 Compacted 1@1 + 1@2 files => 534 bytes
+2024/05/19-20:44:49.539 5a68 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/19-20:44:49.539 5a68 Delete type=2 #5
+2024/05/19-20:44:49.539 5a68 Delete type=2 #8
+2024/05/19-20:44:49.539 5a68 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 59 : 1 .. (end); will stop at (end)
